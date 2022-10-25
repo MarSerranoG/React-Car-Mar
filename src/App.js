@@ -13,17 +13,17 @@ export default function App() {
       }}
     >
       <Car
-        nombre="Rayo McQueen"
-        modelo="Chevrolet Corvette C6 de NASCAR"
+        nombre="Gorillaz Stylo Car"
+        modelo="Camaro 69"
         imagen="https://s1.cdn.autoevolution.com/images/news/someone-has-recreated-the-chevrolet-camaro-from-gorillazs-stylo-for-gts-143187-7.jpg"
         descripcion="El auto mas veloz de la serie de peliculas de Cars."
         style={{ margin: '6px' }}
       />
       <Car
-        nombre="Mate"
-        modelo="International L-170"
-        imagen="https://www.venta-de.com.ve/sh-img/latest_grua%2Bmate%2Bcars.jpeg"
-        descripcion="El Compañero fiel del auto veloz de la pelicula Cars."
+        nombre="Mustang Charge"
+        modelo="1967"
+        imagen="https://cdn.forbes.com.mx/2019/07/mustang-auto-carro-charge-electrico-verde-640x360.jpg"
+        descripcion="Restomod eléctrico del clásico de Ford de 1976"
         style={{ margin: '6px' }}
       />
     </div>
